@@ -1,0 +1,16 @@
+fbbe99afadea6d9109830a8920fb1968 *DESCRIPTION
+b197971c633ff14b3071fbf4d88145db *NAMESPACE
+549d963935e251710f36b5a72d3283f0 *R/calib_el.R
+81c4bd6b4fc0f032de105a8a5763c859 *R/controls.R
+627598dc89c32650bdd2488825976542 *R/joint_calib.R
+9242b8b778c5b48495aa337d77a2ff95 *R/joint_calib_create_matrix.R
+e7a2d4e989792d5cc42a4fcb8cc85914 *R/methods.R
+a7252e11d3b0670b014236e06a3f5ef7 *README.md
+99ef76ec5b9583fb2bb39fe77755dbf9 *build/jointCalib.pdf
+62ca2f2beebe8ef91134883c48a4316e *build/stage23.rdb
+2f673b77995fc83d38014a93d9b41e0c *inst/tinytest/test_create_matrix.R
+5e6abf714c16b892d9402fe761e42de8 *inst/tinytest/test_joint_calib.R
+6b7b01cf24dfc7b3b35d5dcdd8e278de *man/calib_el.Rd
+e71a8b79de9c07fba9c3cdbbafccd646 *man/control_calib.Rd
+713ccc40a6ef169421c3390a5f2d297c *man/joint_calib.Rd
+1d8fa83949efb8df2981ae1ee6bebdd9 *man/joint_calib_create_matrix.Rd
